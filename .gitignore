@@ -1,0 +1,6 @@
+**.pyc
+models*
+data/*
+download/dwr/*
+dev-prediction.json
+temp/*
